@@ -1,0 +1,11 @@
+.tempDiv {
+  width: 60%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.imgAvatar{
+  max-width: 50px;
+  max-height: 50px;
+  border-radius: 15px;
+}

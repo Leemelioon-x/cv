@@ -1,0 +1,14 @@
+.select {
+  width: 165px;
+  height: 24px;
+  background: #ffffff;
+  border: 1px solid #c2c2c2;
+  border-radius: 2px;
+  min-width: 40px;
+}
+
+.select:focus {
+}
+
+.option:hover {
+}
