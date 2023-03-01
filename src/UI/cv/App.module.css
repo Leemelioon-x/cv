@@ -1,3 +1,14 @@
-.cvContainer{
-
+.appCvContainer{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
 }
+
+.cvContainer{
+    display: flex;
+    width: 1000px;
+    height: 100vh;
+    border-radius: 11.8799px;
+    background: linear-gradient(190.68deg, rgba(253, 161, 77, 0.42) 16.72%, rgba(182, 51, 255, 0.36) 85.72%);
+}
+

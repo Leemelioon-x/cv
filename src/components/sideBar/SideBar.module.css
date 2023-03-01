@@ -1,0 +1,18 @@
+.sideBarContainer{
+    width: 30%;
+    min-width: 300px;
+    height: 100vh;
+    background: #8D1F5B;
+    opacity: 0.95;
+    box-shadow: 306.862px 754.292px 228.042px rgba(127, 122, 122, 0.05), 196.467px 482.747px 208.395px rgba(127, 122, 122, 0.04), 110.396px 271.545px 175.884px rgba(127, 122, 122, 0.13), 49.1167px 120.687px 130.276px rgba(127, 122, 122, 0.21), 12.1622px 30.1717px 71.57px rgba(127, 122, 122, 0.25), 0px 0px 0px rgba(127, 122, 122, 0.25);
+    border-radius: 11px;
+}
+
+.myPhotoContainer{
+
+}
+
+.myPhoto{
+    mix-blend-mode: overlay;
+    border-radius: 11.8799px;
+}
