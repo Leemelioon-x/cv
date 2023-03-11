@@ -1,10 +1,10 @@
-.descriptionContainer{
+.descriptionContainer {
     width: 70%;
     flex-direction: row;
     justify-content: center;
 }
 
-.programmerName{
+.programmerName {
     min-width: 500px;
     height: 80px;
     display: flex;
@@ -12,11 +12,63 @@
     align-items: center;
     justify-content: space-between;
     margin-top: 80px;
-    font-size: 25px;
+    font-size: 27px;
     font-family: 'Golos Text', sans-serif;
 }
 
-.specializationName{
+.specializationName {
     font-size: 20px;
     font-family: 'Golos Text', sans-serif;
 }
+
+.descriptionAuthor {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    font-size: 23px;
+    font-family: 'Golos Text', sans-serif;
+}
+
+.aboutAuthor {
+    display: flex;
+    font-size: 17px;
+    padding: 10px;
+
+}
+
+.technologyStackContainer {
+    display: flex;
+    flex-direction: column;
+    padding-left: 30px;
+    font-size: 23px;
+    font-family: 'Golos Text', sans-serif;
+
+}
+
+.technologyStack{
+    display: flex;
+    padding-top: 20px;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.technology {
+
+}
+
+.technologyName{
+    font-size: 17px;
+}
+
+.workExperienceContainer {
+    padding-left: 30px;
+    padding-top: 50px;
+    font-size: 23px;
+    font-family: 'Golos Text', sans-serif;
+
+}
+
+.workExperienceDescription {
+
+}
+
